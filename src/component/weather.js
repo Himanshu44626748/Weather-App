@@ -2,7 +2,7 @@ import React from 'react';
 
 function Weather(props){
 
-    if(props.error == true)
+    if(props.error === true)
     {
         return (<div></div>);
     }

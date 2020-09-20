@@ -56,7 +56,7 @@ class App extends React.Component{
     {
       this.setState({icon: this.weatherIcon.Atmosphere});
     }
-    else if(rangeId == 800)
+    else if(rangeId === 800)
     {
       this.setState({icon: this.weatherIcon.Clear});
     }
