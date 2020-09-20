@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Himanshu44626748/Weather-App/static/css/main.378f620c.chunk.css",
+    "main.js": "/Himanshu44626748/Weather-App/static/js/main.61208b78.chunk.js",
+    "main.js.map": "/Himanshu44626748/Weather-App/static/js/main.61208b78.chunk.js.map",
+    "runtime-main.js": "/Himanshu44626748/Weather-App/static/js/runtime-main.c62c1007.js",
+    "runtime-main.js.map": "/Himanshu44626748/Weather-App/static/js/runtime-main.c62c1007.js.map",
+    "static/css/2.d48897db.chunk.css": "/Himanshu44626748/Weather-App/static/css/2.d48897db.chunk.css",
+    "static/js/2.9e12afb2.chunk.js": "/Himanshu44626748/Weather-App/static/js/2.9e12afb2.chunk.js",
+    "static/js/2.9e12afb2.chunk.js.map": "/Himanshu44626748/Weather-App/static/js/2.9e12afb2.chunk.js.map",
+    "index.html": "/Himanshu44626748/Weather-App/index.html",
+    "precache-manifest.54ee83237dbf637043e35863129057f7.js": "/Himanshu44626748/Weather-App/precache-manifest.54ee83237dbf637043e35863129057f7.js",
+    "service-worker.js": "/Himanshu44626748/Weather-App/service-worker.js",
+    "static/css/2.d48897db.chunk.css.map": "/Himanshu44626748/Weather-App/static/css/2.d48897db.chunk.css.map",
+    "static/css/main.378f620c.chunk.css.map": "/Himanshu44626748/Weather-App/static/css/main.378f620c.chunk.css.map",
+    "static/js/2.9e12afb2.chunk.js.LICENSE.txt": "/Himanshu44626748/Weather-App/static/js/2.9e12afb2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Himanshu44626748/Weather-App/static/media/background.c67f6de1.png",
+    "static/media/weather-icons.css": "/Himanshu44626748/Weather-App/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c62c1007.js",
+    "static/css/2.d48897db.chunk.css",
+    "static/js/2.9e12afb2.chunk.js",
+    "static/css/main.378f620c.chunk.css",
+    "static/js/main.61208b78.chunk.js"
+  ]
+}
